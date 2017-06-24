@@ -1,4 +1,4 @@
-var buf = new Buffer('Hello', 'utf8');
+var buf = new Buffer('Hello', 'utf8'); //size and encoding are params passed utf8 is default.
 
 console.log(buf);
 console.log(buf.toString());
