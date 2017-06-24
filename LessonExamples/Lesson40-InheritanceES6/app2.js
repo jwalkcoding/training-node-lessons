@@ -2,7 +2,6 @@ var util = require('util');
 'use strict';
 
 //es 6 Class creation
-
 class Person { //Simplified way to write a constructor(Class Creator)
     constructor(firstname, lastname) { //Constructor  params only used when object is created "new" keyword used
             this.firstname = firstname;

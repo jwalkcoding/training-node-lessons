@@ -1,5 +1,5 @@
 var EventEmitter = require('events');
-var util = require('util');
+var util = require('util'); //core node module that contains useful javascript utilities
 
 function Greetr() {
     EventEmitter.call(this); //inherits from the Parent Class or Function Constructor
