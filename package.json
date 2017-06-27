@@ -1,0 +1,17 @@
+{
+  "name": "nodelearning",
+  "version": "1.0.0",
+  "description": "node learning project",
+  "main": "app.js",
+  "dependencies": {
+    "eslint": "^4.0.0",
+    "jshint": "^2.9.5",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
